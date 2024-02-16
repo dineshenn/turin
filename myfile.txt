@@ -4,4 +4,8 @@ hw r u
 5n
 Dinesh EN
 sharath
+<<<<<<< HEAD
 ajay Viaz
+=======
+ajaySmaartSoc
+>>>>>>> 1b78518323c92a6a83522b9c4f8bbd74a3d02970
